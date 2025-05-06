@@ -267,7 +267,7 @@ label{
 }
 
 .input .form button:hover{
-    background-color: rgb(160, 63, 7);
+    background-color: rgb(24, 147, 212);
     transition: color 300ms;
 }
 
@@ -286,13 +286,13 @@ nav{
 
 .menuSus button{
     padding: 12px;
-    background: rgb(219, 87, 11);
+    background: rgb(24, 147, 212);
     border: none;
     color: rgb(255, 255, 255);
 }
 
 .menuSus button:hover{
-    background-color: rgb(160, 63, 7);
+    background-color:rgb(24, 147, 212);
     transition: color 300ms;
 }
 
